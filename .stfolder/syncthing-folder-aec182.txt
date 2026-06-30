@@ -1,5 +1,0 @@
-# This directory is a Syncthing folder marker.
-# Do not delete.
-
-folderID: llrax-cqyw9
-created: 2026-06-26T21:42:56-03:00
